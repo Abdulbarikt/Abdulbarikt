@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfarisi&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbari" /> </p>
 
 
 # 💫 About Me:
 "As a self-taught Flutter developer, <br>I'm passionate about creating elegant and user-friendly mobile applications. <br>My journey began with a love for problem-solving, and I've honed my skills through <br>self-directed learning and hands-on projects. I thrive on staying up-to-date <br>with the latest trends in mobile app development and am always excited <br>to take on new challenges. Let's connect and discuss how we can create <br>innovative solutions together."<br><br>Feel free to customize it to match your unique experiences and<br> aspirations as a self-taught Flutter developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanulfarisi&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbari" /> </p>
 
 
 ## 🌐 Socials:

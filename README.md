@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/7837f4bc8d5b8cf769702bc69957eee0511490a8b63cee82d8a160692ceb9d55/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966)
-<h1 align="center">Hi 👋, I'm Salmanul Farisi</h1>
+<h1 align="center">Hi 👋, I'm Abdul Bari KT</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/@farisi_0027" target="blank"><img src="https://img.shields.io/twitter/follow/farisi_0027?logo=twitter&style=for-the-badge" alt="@farisi_0027" /></a> </p>
 
-- 🔭 I’m currently working on **Beats-music player**
+
 
 - 🌱 I’m currently learning **Dart,Flutter,Databases,Satemanagment**
 
-- 👨‍💻 All of my projects are available at [https://salmanulfarisi.github.io/portfolio/](https://salmanulfarisi.github.io/portfolio/)
 
 - 💬 Ask me about **Dart, Flutter, C-programme,Java**
 
-- 📫 How to reach me **salmanfarisi0027@gmail.com**
+- 📫 How to reach me **abdulbaribari121@gmail.com**
 
 - ⚡ Fun fact **I looking very Handsome**
 
